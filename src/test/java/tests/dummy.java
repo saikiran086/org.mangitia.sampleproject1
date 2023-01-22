@@ -11,6 +11,7 @@ public class dummy {
 		WebDriverManager.chromedriver().setup();
 		RemoteWebDriver driver=new ChromeDriver();
 		driver.get("https://google.com");
+		driver.manage.window.maximize();
 
 	}
 
