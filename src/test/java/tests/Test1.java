@@ -12,7 +12,8 @@ public class Test1 {
 		
 		System.out.println(sb);
 		
-
+		System.out.println("commiting through git cmds");
+		
 	}
 
 }
